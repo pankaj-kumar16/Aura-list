@@ -1,4 +1,4 @@
-# 🎵 MelodyHub — Music Streaming Web App
+# 🎵 Auralist — Music Streaming Web App
 
 MelodyHub is a full-stack music streaming web application designed to provide users with a simple and interactive music listening experience. Users can explore music, play tracks, manage playlists, save their favorite songs, and keep track of their listening history.
 
